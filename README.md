@@ -1,2 +1,1 @@
-# Prueba-repositorio
-Es una prueba del repositorio
+como es que seria el proyecto plus
